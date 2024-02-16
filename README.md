@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jw0410
+- 👋 Hi, I’m Jw
 - 👀 I’m interested in coding
 - 🌱 I’m currently working in Make Vision Research and Development.
 - 💞️ I’m looking to collaborate on .
